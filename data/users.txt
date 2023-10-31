@@ -1,0 +1,4 @@
+admin,badrulsajib,badrul.sajib@gmail.com,12345
+manager,Adnan,adnan@gmail.com,12345
+user,Liton,litonkhan@gmail.com,12345
+user,Rejaul Karim,rejaul@gmail.com,12345
